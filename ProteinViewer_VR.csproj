@@ -78,15 +78,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MediaDecoder\Scripts\MediaDecoder.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\FileSeeker.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\ImageSourceController.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\StereoHandler.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\StereoImageSourceController.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\StereoProperty.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\StereoVideoSourceController.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\PlayerScripts\VideoSourceController.cs" />
-    <Compile Include="Assets\MediaDecoder\Scripts\UVSphere.cs" />
     <Compile Include="Assets\Scripts\ControllerGrabObject.cs" />
     <Compile Include="Assets\Scripts\LaserPointer.cs" />
     <Compile Include="Assets\Scripts\LowGravityScript.cs" />
@@ -198,10 +189,6 @@
     <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\MediaDecoder\Copyright notice.txt" />
-    <None Include="Assets\MediaDecoder\Shaders\YUV2RGBA.shader" />
-    <None Include="Assets\MediaDecoder\Shaders\YUV2RGBA_linear.shader" />
-    <None Include="Assets\MediaDecoder\readme.txt" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />

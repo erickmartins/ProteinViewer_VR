@@ -129,10 +129,6 @@
     <Compile Include="Assets\UVEditor\Editor\UVEditor.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\MediaDecoder\Copyright notice.txt" />
-    <None Include="Assets\MediaDecoder\Shaders\YUV2RGBA.shader" />
-    <None Include="Assets\MediaDecoder\Shaders\YUV2RGBA_linear.shader" />
-    <None Include="Assets\MediaDecoder\readme.txt" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\SeeThru.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Core\Shaders\Silhouette.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
