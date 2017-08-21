@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Animation_demo.unity
+- path: Assets/Scenes/template_room.unity
   isLoaded: 1
   isActive: 1
